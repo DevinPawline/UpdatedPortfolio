@@ -1,7 +1,7 @@
 # Updated Portfolio
 
 I created an updated portfolio using massively to make it look more professional, I linked my four favorite projects as well as my LinkedIn and 
-Github Profiles!
+Github Profiles! I have never completed building my resume yet but will add it before next week! 
 
 ## Deployable Link: 
 https://devinpawline.github.io/UpdatedPortfolio/
