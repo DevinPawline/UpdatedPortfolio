@@ -4,7 +4,7 @@ I created an updated portfolio using massively to make it look more professional
 Github Profiles!
 
 ## Deployable Link: 
-https://devinpawline.github.io/updatedPortfolio/
+https://devinpawline.github.io/UpdatedPortfolio/
 
 ### Video of Funcitonality: 
 https://user-images.githubusercontent.com/79121046/122809345-feb57200-d29b-11eb-8dcd-1b373a05713e.mp4
