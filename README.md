@@ -7,6 +7,10 @@ Github Profiles! I have never completed building my resume yet but will add it b
 https://devinpawline.github.io/UpdatedPortfolio/
 
 ### Video of Funcitonality: 
-https://user-images.githubusercontent.com/79121046/122809345-feb57200-d29b-11eb-8dcd-1b373a05713e.mp4
+
+
+https://user-images.githubusercontent.com/79121046/130130908-38302dc9-1b12-4870-9e19-7f84e69ca664.mp4
+
+
 
 
